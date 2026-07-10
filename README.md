@@ -1,6 +1,6 @@
 # 📊 Omnitrades Sales Dashboard
 
-A Power BI dashboard built on a Northwind style sales dataset, covering orders, products, categories and customers for a global trading business. I built this to practice turning a raw relational dataset into a report that a sales or operations team could actually use day to day.
+A Power BI dashboard built on a Northwind style sales dataset, covering orders, products, categories and customers for a global trading business. I built this to demonstrate my ability to turn a raw relational dataset into a report that a sales or operations team could actually use day to day.
 
 ![Omnitrades Sales Dashboard, page 1](Omnitrades%20Power%20BI%20shot%201.png)
 *Page 1: sales overview*
